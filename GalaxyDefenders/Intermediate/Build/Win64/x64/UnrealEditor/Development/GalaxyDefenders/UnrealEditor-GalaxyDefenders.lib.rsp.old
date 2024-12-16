@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GalaxyDefenders.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\maxim\OneDrive\Documents\GitHub\GalaxyDefenders\GalaxyDefenders\Intermediate\Build\Win64\x64\GalaxyDefendersEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\maxim\OneDrive\Documents\GitHub\GalaxyDefenders\GalaxyDefenders\Intermediate\Build\Win64\x64\UnrealEditor\Development\GalaxyDefenders\GalaxyDefenders.cpp.obj"
+"C:\Users\maxim\OneDrive\Documents\GitHub\GalaxyDefenders\GalaxyDefenders\Intermediate\Build\Win64\x64\UnrealEditor\Development\GalaxyDefenders\Default.rc2.res"
+/OUT:"C:\Users\maxim\OneDrive\Documents\GitHub\GalaxyDefenders\GalaxyDefenders\Intermediate\Build\Win64\x64\UnrealEditor\Development\GalaxyDefenders\UnrealEditor-GalaxyDefenders.lib"

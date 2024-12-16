@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GalaxyDefenders",
+			"Path": "..\\Source\\GalaxyDefenders.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GalaxyDefendersEditor",
+			"Path": "..\\Source\\GalaxyDefendersEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

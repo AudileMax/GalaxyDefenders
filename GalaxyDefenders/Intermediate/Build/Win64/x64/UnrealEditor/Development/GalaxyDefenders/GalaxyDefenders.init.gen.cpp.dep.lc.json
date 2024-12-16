@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\maxim\\onedrive\\documents\\github\\galaxydefenders\\galaxydefenders\\intermediate\\build\\win64\\unrealeditor\\inc\\galaxydefenders\\uht\\galaxydefenders.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\maxim\\onedrive\\documents\\github\\galaxydefenders\\galaxydefenders\\intermediate\\build\\win64\\x64\\galaxydefenderseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\maxim\\onedrive\\documents\\github\\galaxydefenders\\galaxydefenders\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\galaxydefenders\\definitions.galaxydefenders.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
